@@ -25,3 +25,7 @@ Rules
 4. Wrong input stacks one more line.
 5. Lines fill whole area, you will be executed.
 6. Time raises Lv which is found middle of window, the higher Lv is, the shorter line spawning frequency will be.
+
+![KBOC_defeat](https://user-images.githubusercontent.com/51889755/86521907-6313d180-be91-11ea-9054-5254bd079032.png)
+![KBOC_loby](https://user-images.githubusercontent.com/51889755/86521908-6444fe80-be91-11ea-8851-6ee08ccee9a7.png)
+![KBOC_play](https://user-images.githubusercontent.com/51889755/86521909-64dd9500-be91-11ea-9230-64da034f86a2.png)
