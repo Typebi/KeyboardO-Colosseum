@@ -159,11 +159,11 @@ public class C_Main extends Thread {
 		cui.p_main1P.add(cui.l_escape1P);
 		cui.l_escape1P.setVisible(true);
 		try {
-			cui.l_escape1P.setText("<html><div style='text-align: center;'>Desertion !!<br>Reset<br>3 sec later</div></html>");
+			cui.l_escape1P.setText("<html><div style='text-align: center;'>Absconding !!<br>Reset<br>3 sec later</div></html>");
 			Thread.sleep(1000);
-			cui.l_escape1P.setText("<html><div style='text-align: center;'>Desertion !!<br>Reset<br>2 sec later</div></html>");
+			cui.l_escape1P.setText("<html><div style='text-align: center;'>Absconding !!<br>Reset<br>2 sec later</div></html>");
 			Thread.sleep(1000);
-			cui.l_escape1P.setText("<html><div style='text-align: center;'>Desertion !!<br>Reset<br>1 sec later</div></html>");
+			cui.l_escape1P.setText("<html><div style='text-align: center;'>Absconding !!<br>Reset<br>1 sec later</div></html>");
 			Thread.sleep(1000);
 		} catch (InterruptedException e) { e.printStackTrace(); }
 		cui.l_escape1P.setVisible(false);
