@@ -53,23 +53,29 @@ The way you play the game is largely your own way of looking at it. For more inf
 1. It consists of 7 random blocks.
 1. You can remove the bottom line by entering the keys correctly in a row.
 1. Wrong input calls one more line. And you must back to the first block. 
-1. Lines stack more than 7, you will be executed(defeat).
+1. If the line is stacked more than 7, you will be executed(defeat).
 1. The Lv shown in the middle of the screen increases over time. The higher the level, the faster the line stacks.
-1. The game continues until the opponent dies or runs away.
+1. The game continues until the opponent dies or runs away.  
+1. Viewers can chat through the chat window in the upper right corner.
 
 이 게임은 리듬게임보다는 타자게임이라고 해야할 것입니다.  
 게임방법은 대체로 당신의 직관대로입니다. 자세한 설명을 원한다면 아래를 참조하세요.  
 
 1. 일정 시간마다 블록이 1줄씩 쌓입니다.
-1. 라인 1줄은 7개의 랜덤한 블록으로 이루어져 있습니다.
-1. 가장 아래 라인의 키를 연속으로 정확히 입력하면 그 줄을 없앨 수 있습니다.
-1. 틀린 입력 시 즉시 1라인이 추가되며, 해당 라인을 처음부터 입력해야합니다.
-1. 쌓인 라인이 7줄을 초과하면 처형(패배)됩니다.
+1. 라인 1줄은 7개의 랜덤 블록입니다.
+1. 가장 아랫줄을 연속으로 정확히 입력하면 없앨 수 있습니다.
+1. 틀린 입력 시 즉시 1줄이 추가되며, 해당 라인을 처음부터 입력해야합니다.
+1. 라인이 7줄을 초과하여 쌓이면 처형(패배)됩니다.
 1. 화면 가운데에 보이는 Lv은 시간이 지날수록 증가합니다. 레벨이 높아질수록 라인이 쌓이는 속도가 빨라집니다.
 1. 상대편이 죽거나 탈주할 때까지 게임은 계속됩니다.
+1. 관전자들은 오른쪽 상단의 채팅창을 통해 대화할 수 있습니다.  
 
 ## System Requirements
 
 - [Java Runtime Environment 1.8.0_251](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
 - Server should turn off firewall
 
+<br>
+
+You can pull request or everything.  
+Contact me : Typebi.dev@gmail.com
