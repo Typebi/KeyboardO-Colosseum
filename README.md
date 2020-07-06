@@ -72,7 +72,7 @@ The way you play the game is largely your own way of looking at it. For more inf
 
 ## System Requirements
 
-- [Java Runtime Environment 1.8.0_251](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
+- [Java Runtime Environment 1.8.0_251](https://www.java.com/en/download/)
 - Server should turn off firewall
 
 <br>
