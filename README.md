@@ -24,15 +24,30 @@ You may have heard about Judo, Taekwondo, Kendo, and Hapkido. They all have the 
 So, 'keyboardo' is a kind of martial art that trains keyboards, 
 and this colosseum is for fighters who train them.   
 You'll be a gladiator fighting with a keyboard here.  
+Beat your challengers and survive until the end to build a winning streak!
 
 '키보도'는 키보드와 도(道)의 합성어입니다.  
-'도(道)'는 아시아에서 무술의 어떤 정신을 의미합니다.  
-여러분은 아마 이름에  '-도'라는 접미사가 들어가는 유도, 태권도, 검도, 합기도를 들어본 적이 있을 것입니다.  
-즉, '키보도'는 키보드를 단련하는 무술의 일종이고, '키보도 콜로세움'은 키보도를 단련한 전사들을 위한 곳인 것입니다.  
-여러분은 이곳에서 키보드로 싸우는 검투사가 될 것입니다.
+유도, 태권도, 검도, 합기도처럼요.  
+즉, '키보도'는 키보드를 단련하는 무술이고, '키보도 콜로세움'은 키보도를 단련한 전사들을 위한 곳인 것입니다.  
+여러분은 이곳에서 키보드로 싸우는 검투사가 될 것입니다.  
+도전자들을 물리치고 끝까지 살아남아 연승을 쌓아보세요!
+
+![KBOC_loby](https://user-images.githubusercontent.com/51889755/86521908-6444fe80-be91-11ea-8851-6ee08ccee9a7.png)
+![KBOC_play](https://user-images.githubusercontent.com/51889755/86521909-64dd9500-be91-11ea-9230-64da034f86a2.png)
+![KBOC_defeat](https://user-images.githubusercontent.com/51889755/86521907-6313d180-be91-11ea-9054-5254bd079032.png)
+
+## How to play
+1. Clone this repository
+1. Run Server.exe and open the server.
+1. Run Client.exe and enter the IP of the PC that opened the server; blank = Local IP.  
+<!-- -->
+1. 이 Repository를 Clone 합니다.
+1. Server.exe 를 실행하고 서버를 엽니다.
+1. Client.exe 를 실행하고 서버를 연 PC의 IP를 입력한 후 입장합니다(공란=로컬IP).
 
 ## Rules
-This game is more of a typing game than a rhythm game.
+This game is more of a typing game than a rhythm game.  
+The way you play the game is largely your own way of looking at it. For more information, see below.  
 
 1. One line is stacked every time.
 1. It consists of 7 random blocks.
@@ -42,7 +57,8 @@ This game is more of a typing game than a rhythm game.
 1. The Lv shown in the middle of the screen increases over time. The higher the level, the faster the line stacks.
 1. The game continues until the opponent dies or runs away.
 
-이 게임은 리듬게임보다는 타자게임이라고 해야할 것입니다.
+이 게임은 리듬게임보다는 타자게임이라고 해야할 것입니다.  
+게임방법은 대체로 당신의 직관대로입니다. 자세한 설명을 원한다면 아래를 참조하세요.  
 
 1. 일정 시간마다 블록이 1줄씩 쌓입니다.
 1. 라인 1줄은 7개의 랜덤한 블록으로 이루어져 있습니다.
@@ -52,15 +68,8 @@ This game is more of a typing game than a rhythm game.
 1. 화면 가운데에 보이는 Lv은 시간이 지날수록 증가합니다. 레벨이 높아질수록 라인이 쌓이는 속도가 빨라집니다.
 1. 상대편이 죽거나 탈주할 때까지 게임은 계속됩니다.
 
-![KBOC_loby](https://user-images.githubusercontent.com/51889755/86521908-6444fe80-be91-11ea-8851-6ee08ccee9a7.png)
-![KBOC_play](https://user-images.githubusercontent.com/51889755/86521909-64dd9500-be91-11ea-9230-64da034f86a2.png)
-![KBOC_defeat](https://user-images.githubusercontent.com/51889755/86521907-6313d180-be91-11ea-9054-5254bd079032.png)
-
 ## System Requirements
 
 - [Java Runtime Environment 1.8.0_251](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
 - Server should turn off firewall
 
-Clone this repository
-Run Server.exe and open the server
-Start CLient.exe
