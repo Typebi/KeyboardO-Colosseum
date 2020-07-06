@@ -2,9 +2,9 @@
 
 - **Press Correct Key**
 
-- **Beat opponent**
+- **Beat Opponent**
 
-- **Not so esay**
+- **Not So Esay**
 
 ## Intro
 A distant future in which even all social activities are digital dependent.  
