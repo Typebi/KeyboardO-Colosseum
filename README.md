@@ -58,8 +58,8 @@ The way you play the game is largely your own way of looking at it. For more inf
 1. The game continues until the opponent dies or runs away.  
 1. Viewers can chat through the chat window in the upper right corner.
 
-이 게임은 리듬게임보다는 타자게임이라고 해야할 것입니다.  
-게임방법은 대체로 당신의 직관대로입니다. 자세한 설명을 원한다면 아래를 참조하세요.  
+이 게임은 리듬게임보다는 타자게임에 가깝습니다.  
+게임방법은 대체로 직관대로 하시면 됩니다. 자세한 설명을 원한다면 아래를 참조하세요.  
 
 1. 일정 시간마다 블록이 1줄씩 쌓입니다.
 1. 라인 1줄은 7개의 랜덤 블록입니다.
